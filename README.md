@@ -23,7 +23,6 @@ Install wsl and required packages from requirements.txt in windows powershell
 1st window
 a) cd OneDrive/Desktop/llm_chatbot_project_group/chatbot_app -> enter
 b) sudo ~/flutter/bin/flutter run -d linux -> enter
-c) password -2908 -> enter
 
 2nd window
 a) cd ~ -> enter
